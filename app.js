@@ -7,7 +7,7 @@ const HOST = "0.0.0.0";
 
 const app = express();
 app.get("/", (req, res) => {
-  res.send("Enrico\n");
+  res.send("Enricox\n");
   res.send("52021005\n");
   res.send("Informatika\n");
 });
